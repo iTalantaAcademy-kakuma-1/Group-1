@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/iTalantaAcademy-kakuma-1/Group-1#readme",
   "dependencies": {
-    "gulp": "^4.0.2"
+    "gulp": "^4.0.2",
+    "lodash": "^4.17.21"
   }
 }
